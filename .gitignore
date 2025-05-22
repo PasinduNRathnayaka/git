@@ -1,0 +1,6 @@
+#ignore F1.txt file //You can add (single line) comment into the .gitignore file using “#”
+F1.txt
+#ignore all .txt files
+*.txt
+#ignore all .class files
+*.class
